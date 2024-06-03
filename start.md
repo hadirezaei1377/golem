@@ -15,5 +15,7 @@ also we can use it for unit test
 .
 .
 
+llms are stateless so every requests is unique and when we recieve a response and retry we will have new response from openAI.
+
 
 
